@@ -1,0 +1,11 @@
+ 
+    /*if(Trigger.isInsert || Trigger.isundelete)
+    for(Candidate__c cd:Trigger.new)
+    NewCandidateTriggerHandler.checkCount(Trigger.new);
+    
+    if(Trigger.isDelete)
+        for(Candidate__c cd: Trigger.old)
+        NewCandidateTriggerHandler.checkCount(Trigger.old);
+    if(Trigger.isUpdate)
+        for(Candidate__c cd: Trigger.old)
+        NewCandidateTriggerHandler.checkCount(Trigger.old);*/
