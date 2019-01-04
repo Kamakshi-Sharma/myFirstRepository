@@ -1,4 +1,4 @@
- 
+ //this is a sample test
     /*if(Trigger.isInsert || Trigger.isundelete)
     for(Candidate__c cd:Trigger.new)
     NewCandidateTriggerHandler.checkCount(Trigger.new);
